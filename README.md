@@ -111,7 +111,7 @@ quickword/
 
 ---
 
-🙌 Author
-Made with 💻 and ☕ by Atharva Arjun Patil
+**🙌 Author**
+Made with 💻 and ☕ by **Atharva Arjun Patil**
 
-Department : Computer Engineering
+**Department** : Computer Engineering
