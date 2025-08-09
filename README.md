@@ -112,6 +112,7 @@ quickword/
 ---
 
 **🙌 Author**
+
 Made with 💻 and ☕ by **Atharva Arjun Patil**
 
 **Department** : Computer Engineering
